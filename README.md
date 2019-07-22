@@ -1,6 +1,6 @@
 # WXAPK
 
-微信安装改名后的 APK 补丁
+让微信可以安装改名后的APK的补丁
 
 ## 问题背景
 微信无法直接安装apk文件
@@ -27,3 +27,6 @@
 ## License 
 
 MIT
+
+## 手动模式
+如果你不想安装这个补丁，也可以用手动模式来安装，参考：https://xmanyou.com/wechat-cannot-install-apk-on-android/
